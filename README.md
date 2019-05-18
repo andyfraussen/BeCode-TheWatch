@@ -1,4 +1,6 @@
 # BeCode-TheWatch
+During our time at BeCode, each student had to give a small presentation about a tech relation subject. Mainly to practice their presenting and pitching skills. This repository holds my subjects and presentations. 
+
 
 # TECHTalk (aka The Watch)
 De collectieve en dagelijkse presentaties binnen in Becode.
@@ -12,7 +14,7 @@ Het bestaat meestal uit een informele presentatie, geleid door een junior develo
 
 Het is een moment van gezelligheid, waardoor iedereen in het openbaar kan spreken, een ontdekking / lezing /..., leren delen. Zonder je er zorgen om te moeten over te maken, aangezien je onder je familie bent.
 
-Om zo, met z’n allen, een moment van "vreugdevolle kennis" te delen. Dat gevoel als je lampje brandt na het vinden van een oplossing!
+Om zo, met zâ€™n allen, een moment van "vreugdevolle kennis" te delen. Dat gevoel als je lampje brandt na het vinden van een oplossing!
 
 # Vanaf nu is het aan jou!
 Om alles in goede banen te leiden, moet elke junior zich registeren op de repository. Dit doe je door deze repository te klonen en de file agenda aan te passen.
